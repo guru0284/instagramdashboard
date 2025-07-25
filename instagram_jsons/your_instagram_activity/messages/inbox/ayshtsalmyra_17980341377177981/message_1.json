@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009f\u0095\u008a\u00ef\u00b8\u008f\u00d8\u00b9\u00d8\u00a7\u00d8\u00a6\u00d8\u00b4\u00d8\u00a9 \u00d8\u00b3\u00d8\u00a7\u00d9\u0084\u00d9\u0085\u00d9\u008a\u00d8\u00b1\u00d8\u00a7\u00f0\u009f\u008c\u00b8"
+    },
+    {
+      "name": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00f0\u009f\u0095\u008a\u00ef\u00b8\u008f\u00d8\u00b9\u00d8\u00a7\u00d8\u00a6\u00d8\u00b4\u00d8\u00a9 \u00d8\u00b3\u00d8\u00a7\u00d9\u0084\u00d9\u0085\u00d9\u008a\u00d8\u00b1\u00d8\u00a7\u00f0\u009f\u008c\u00b8",
+      "timestamp_ms": 1746930652311,
+      "content": "Thanks da guru \u00f0\u009f\u0098\u0087\u00f0\u009f\u0092\u009d",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa",
+      "timestamp_ms": 1746928088680,
+      "content": "Happy Birthday Aishaa \u00e2\u009c\u00a8",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00e2\u0080\u008e\u00f0\u009f\u0095\u008a\u00ef\u00b8\u008f\u00d8\u00b9\u00d8\u00a7\u00d8\u00a6\u00d8\u00b4\u00d8\u00a9 \u00d8\u00b3\u00d8\u00a7\u00d9\u0084\u00d9\u0085\u00d9\u008a\u00d8\u00b1\u00d8\u00a7\u00f0\u009f\u008c\u00b8\u00e2\u0080\u008e",
+  "is_still_participant": true,
+  "thread_path": "inbox/ayshtsalmyra_17980341377177981",
+  "magic_words": [
+    
+  ]
+}

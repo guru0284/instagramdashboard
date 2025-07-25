@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Adit"
+    },
+    {
+      "name": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Adit",
+      "timestamp_ms": 1724835107889,
+      "content": "\u00e0\u00ae\u00ae\u00e0\u00af\u0086\u00e0\u00ae\u009a\u00e0\u00af\u0087\u00e0\u00ae\u009c\u00e0\u00af\u0088 \u00e0\u00ae\u00b5\u00e0\u00ae\u00bf\u00e0\u00ae\u00b0\u00e0\u00af\u0081\u00e0\u00ae\u00ae\u00e0\u00af\u008d\u00e0\u00ae\u00aa\u00e0\u00ae\u00bf\u00e0\u00ae\u00af\u00e0\u00af\u0081\u00e0\u00ae\u00b3\u00e0\u00af\u008d\u00e0\u00ae\u00b3\u00e0\u00ae\u00be\u00e0\u00ae\u00b0\u00e0\u00af\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa",
+      "timestamp_ms": 1724834279548,
+      "content": "Thx da \u00e2\u0099\u00a5\u00ef\u00b8\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Adit",
+          "timestamp": 1724835107
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Adit",
+      "timestamp_ms": 1724833738519,
+      "content": "Happy birthday daa \u00f0\u009f\u00a5\u00b3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Adit",
+  "is_still_participant": true,
+  "thread_path": "inbox/adit_17971712300772246",
+  "magic_words": [
+    
+  ]
+}

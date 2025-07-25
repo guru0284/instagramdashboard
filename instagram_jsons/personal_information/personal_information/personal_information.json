@@ -1,0 +1,69 @@
+{
+  "profile_user": [
+    {
+      "title": "User Information",
+      "media_map_data": {
+        "Profile Photo": {
+          "uri": "media/other/458158423_8066200070114848_5592959185154906125_n_18039559175083546.jpg",
+          "creation_timestamp": 1725441157,
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            }
+          },
+          "title": "",
+          "cross_post_source": {
+            "source_app": "FB"
+          }
+        }
+      },
+      "string_map_data": {
+        "Phone Number": {
+          "href": "",
+          "value": "+919894529598",
+          "timestamp": 0
+        },
+        "Phone Confirmed": {
+          "href": "",
+          "value": "True",
+          "timestamp": 0
+        },
+        "Phone Confirmation Method": {
+          "href": "",
+          "value": "Unknown",
+          "timestamp": 0
+        },
+        "Username": {
+          "href": "",
+          "value": "gx._.lee",
+          "timestamp": 0
+        },
+        "Name": {
+          "href": "",
+          "value": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa",
+          "timestamp": 0
+        },
+        "Gender": {
+          "href": "",
+          "value": "male",
+          "timestamp": 0
+        },
+        "Date of birth": {
+          "href": "",
+          "value": "2004-08-28",
+          "timestamp": 0
+        },
+        "Private Account": {
+          "href": "",
+          "value": "False",
+          "timestamp": 0
+        },
+        "Emoji Pong High Score": {
+          "href": "",
+          "value": "13",
+          "timestamp": 0
+        }
+      }
+    }
+  ]
+}

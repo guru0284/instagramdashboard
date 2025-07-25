@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Hareshvar Mahesh"
+    },
+    {
+      "name": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa",
+      "timestamp_ms": 1664899895314,
+      "content": "You shared a story.",
+      "share": {
+        "link": "https://instagram.com/stories/gx._.lee/2941715955147208810"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hareshvar Mahesh",
+      "timestamp_ms": 1664899272100,
+      "content": "Hareshvar shared a story.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa",
+          "timestamp": 1664899901
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Hareshvar Mahesh",
+  "is_still_participant": true,
+  "thread_path": "inbox/hareshvarmahesh_992456885484037",
+  "magic_words": [
+    
+  ]
+}

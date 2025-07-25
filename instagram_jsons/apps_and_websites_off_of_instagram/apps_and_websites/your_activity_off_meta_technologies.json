@@ -1,0 +1,129 @@
+{
+  "apps_and_websites_off_meta_activity": [
+    {
+      "name": "Honasa Consumer Ltd",
+      "events": [
+        {
+          "id": 3177974309083890,
+          "type": "PAGE_VIEW",
+          "timestamp": 1750501920
+        }
+      ]
+    },
+    {
+      "name": "wearcomet.com",
+      "events": [
+        {
+          "id": 663517755793437,
+          "type": "PAGE_VIEW",
+          "timestamp": 1745287380
+        }
+      ]
+    },
+    {
+      "name": "ajio.com",
+      "events": [
+        {
+          "id": 524320038082149,
+          "type": "VIEW_CONTENT",
+          "timestamp": 1745244600
+        },
+        {
+          "id": 1075318492562059,
+          "type": "VIEW_CONTENT",
+          "timestamp": 1745244600
+        }
+      ]
+    },
+    {
+      "name": "sneakerspot.in",
+      "events": [
+        {
+          "id": 1522328711786283,
+          "type": "PAGE_VIEW",
+          "timestamp": 1745159400
+        },
+        {
+          "id": 1522328711786283,
+          "type": "PAGE_VIEW",
+          "timestamp": 1745159340
+        }
+      ]
+    },
+    {
+      "name": "aziri.in",
+      "events": [
+        {
+          "id": 1507756220149783,
+          "type": "PAGE_VIEW",
+          "timestamp": 1745158980
+        }
+      ]
+    },
+    {
+      "name": "hululubrand.in",
+      "events": [
+        {
+          "id": 992261348777557,
+          "type": "SEARCH",
+          "timestamp": 1745158800
+        }
+      ]
+    },
+    {
+      "name": "plixlife.com",
+      "events": [
+        {
+          "id": 379097272833431,
+          "type": "PAGE_VIEW",
+          "timestamp": 1745126220
+        }
+      ]
+    },
+    {
+      "name": "vsco.co",
+      "events": [
+        {
+          "id": 405259746325035,
+          "type": "PAGE_VIEW",
+          "timestamp": 1745123220
+        }
+      ]
+    },
+    {
+      "name": "Fbmarket247.com 7529",
+      "events": [
+        {
+          "id": 858361809587652,
+          "type": "INITIATE_CHECKOUT",
+          "timestamp": 1736483100
+        },
+        {
+          "id": 858361809587652,
+          "type": "PAGE_VIEW",
+          "timestamp": 1735654980
+        }
+      ]
+    },
+    {
+      "name": "Birkenstock-India",
+      "events": [
+        {
+          "id": 535533933926441,
+          "type": "PAGE_VIEW",
+          "timestamp": 1720256400
+        }
+      ]
+    },
+    {
+      "name": "Parewa Labs",
+      "events": [
+        {
+          "id": 675997084144491,
+          "type": "CUSTOM",
+          "timestamp": 1691294280
+        }
+      ]
+    }
+  ]
+}

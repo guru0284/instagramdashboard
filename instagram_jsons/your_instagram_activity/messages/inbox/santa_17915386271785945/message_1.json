@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Santa\u00f0\u009f\u0092\u00ab"
+    },
+    {
+      "name": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Santa\u00f0\u009f\u0092\u00ab",
+      "timestamp_ms": 1691027428549,
+      "content": "Tq da",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santa\u00f0\u009f\u0092\u00ab",
+      "timestamp_ms": 1691027344917,
+      "content": "Santa\u00f0\u009f\u0092\u00ab shared a story.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa",
+      "timestamp_ms": 1691027277808,
+      "content": "You shared a story.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Santa\u00f0\u009f\u0092\u00ab",
+  "is_still_participant": true,
+  "thread_path": "inbox/santa_17915386271785945",
+  "magic_words": [
+    
+  ]
+}

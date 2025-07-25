@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Pranesh."
+    },
+    {
+      "name": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pranesh.",
+      "timestamp_ms": 1751778733204,
+      "content": "\u00f0\u009f\u0094\u00a5\u00f0\u009f\u0094\u00a5",
+      "share": {
+        "link": "https://instagram.com/stories/gx._.lee/3670098454690234920"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa",
+      "timestamp_ms": 1693235882973,
+      "content": "Thx macha \u00f0\u009f\u0092\u0096",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pranesh.",
+      "timestamp_ms": 1693235130549,
+      "content": "Happy birthday machaa\u00f0\u009f\u0092\u00a5",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa",
+          "timestamp": 1693235873
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Pranesh.",
+  "is_still_participant": true,
+  "thread_path": "inbox/pranesh_1187140842676488",
+  "magic_words": [
+    
+  ]
+}

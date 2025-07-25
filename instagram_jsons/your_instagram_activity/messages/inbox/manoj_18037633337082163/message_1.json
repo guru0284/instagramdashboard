@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Manoj"
+    },
+    {
+      "name": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa",
+      "timestamp_ms": 1724809558914,
+      "content": "Nandri macha \u00e2\u0099\u00a5\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manoj",
+      "timestamp_ms": 1724809460917,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Manoj",
+  "is_still_participant": true,
+  "thread_path": "inbox/manoj_18037633337082163",
+  "magic_words": [
+    
+  ]
+}

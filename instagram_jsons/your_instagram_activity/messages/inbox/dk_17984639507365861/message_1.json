@@ -1,0 +1,81 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009d\u0090\u0083 \u00f0\u009d\u0090\u008a"
+    },
+    {
+      "name": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0083 \u00f0\u009d\u0090\u008a",
+      "timestamp_ms": 1700557499872,
+      "share": {
+        "original_content_owner": "campus_tv_cit"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0083 \u00f0\u009d\u0090\u008a",
+      "timestamp_ms": 1700555640393,
+      "content": "Story click panni Kolar kobis  vote pannuga da",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0083 \u00f0\u009d\u0090\u008a",
+      "timestamp_ms": 1700555028228,
+      "content": "\u00f0\u009d\u0090\u0083 sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/_u/campus_tv_cit",
+        "profile_share_username": "campus_tv_cit",
+        "profile_share_name": "Campus TV"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0083 \u00f0\u009d\u0090\u008a",
+      "timestamp_ms": 1693227975237,
+      "content": "Mm\u00f0\u009f\u0092\u00ab",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa",
+      "timestamp_ms": 1693223300578,
+      "content": "Thx da\u00f0\u009f\u0092\u0096",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0083 \u00f0\u009d\u0090\u008a",
+      "timestamp_ms": 1693222898130,
+      "content": "\u00f0\u009d\u0090\u0083 sent a sticker.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0083 \u00f0\u009d\u0090\u008a",
+      "timestamp_ms": 1693222889913,
+      "content": "\u00f0\u009f\u0098\u00bbHappy birthday da guru \u00f0\u009f\u0092\u00ab",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa",
+          "timestamp": 1693223300
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00f0\u009d\u0090\u0083 \u00f0\u009d\u0090\u008a",
+  "is_still_participant": true,
+  "thread_path": "inbox/dk_17984639507365861",
+  "magic_words": [
+    
+  ]
+}

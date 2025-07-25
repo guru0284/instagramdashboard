@@ -1,0 +1,20 @@
+{
+  "impressions_history_ads_clicked": [
+    {
+      "title": "Gate Automation Made Easy",
+      "string_list_data": [
+        {
+          "timestamp": 1752482166
+        }
+      ]
+    },
+    {
+      "title": "{{product.name | titleize}}",
+      "string_list_data": [
+        {
+          "timestamp": 1752495481
+        }
+      ]
+    }
+  ]
+}

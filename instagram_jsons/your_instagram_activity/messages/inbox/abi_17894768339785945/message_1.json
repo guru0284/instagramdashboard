@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Abi\u00f0\u009f\u0091\u008a"
+    },
+    {
+      "name": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa",
+      "timestamp_ms": 1724813011778,
+      "content": "Thx abi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Abi\u00f0\u009f\u0091\u008a",
+      "timestamp_ms": 1724811832090,
+      "content": "Happy bday \u00f0\u009f\u008e\u0082 \u00f0\u009f\u00a5\u00b3  da..",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Abi\u00f0\u009f\u0091\u008a",
+  "is_still_participant": true,
+  "thread_path": "inbox/abi_17894768339785945",
+  "magic_words": [
+    
+  ]
+}

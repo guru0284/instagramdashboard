@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009f\u0090\u0089\u00f0\u009f\u00a5\u00b7\u00f0\u009f\u0094\u00b1"
+    },
+    {
+      "name": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00f0\u009f\u0090\u0089\u00f0\u009f\u00a5\u00b7\u00f0\u009f\u0094\u00b1",
+      "timestamp_ms": 1696040000216,
+      "content": "Tnx mameee",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa",
+          "timestamp": 1696040110
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa",
+      "timestamp_ms": 1696039971859,
+      "content": "Happy Birthday mamae \u00f0\u009f\u0092\u0096\u00f0\u009f\u0092\u00a5\u00f0\u009f\u00ab\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa",
+      "timestamp_ms": 1693198517538,
+      "content": "Thx macha \u00f0\u009f\u0092\u0096",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u0090\u0089\u00f0\u009f\u00a5\u00b7\u00f0\u009f\u0094\u00b1",
+      "timestamp_ms": 1693198320162,
+      "content": "Happy birthday daw \u00f0\u009f\u008e\u0089\u00f0\u009f\u008e\u0081\u00f0\u009f\u00a5\u00b3",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa",
+          "timestamp": 1693198516
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00f0\u009f\u0090\u0089\u00f0\u009f\u00a5\u00b7\u00f0\u009f\u0094\u00b1",
+  "is_still_participant": true,
+  "thread_path": "inbox/17987084732349879",
+  "magic_words": [
+    
+  ]
+}

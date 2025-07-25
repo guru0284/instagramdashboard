@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "s\u00e1\u00b4\u0080\u00ca\u0099\u00e1\u00b4\u0080\u00ca\u0080\u00c9\u00aa"
+    },
+    {
+      "name": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "s\u00e1\u00b4\u0080\u00ca\u0099\u00e1\u00b4\u0080\u00ca\u0080\u00c9\u00aa",
+      "timestamp_ms": 1742443543800,
+      "content": "Mm ok da next rcb match ku 3.5 k irruntha mattum sollu da ketu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa",
+      "timestamp_ms": 1742403252617,
+      "content": "Naa vikkala frd panraaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa",
+      "timestamp_ms": 1742403245185,
+      "content": "Macha 12.5 k solra daa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "s\u00e1\u00b4\u0080\u00ca\u0099\u00e1\u00b4\u0080\u00ca\u0080\u00c9\u00aa",
+      "timestamp_ms": 1742401029114,
+      "content": "Evolo bro",
+      "share": {
+        "link": "https://instagram.com/stories/gx._.lee/3591608837293312461"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "s\u00e1\u00b4\u0080\u00ca\u0099\u00e1\u00b4\u0080\u00ca\u0080\u00c9\u00aa",
+  "is_still_participant": true,
+  "thread_path": "inbox/s_17994407696785945",
+  "magic_words": [
+    
+  ]
+}

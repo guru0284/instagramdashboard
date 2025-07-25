@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "STAY CLASSY"
+    },
+    {
+      "name": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "STAY CLASSY",
+      "timestamp_ms": 1727521133748,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa",
+      "timestamp_ms": 1727521131956,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DAa9BILvMIt/?id=3466351221558526509_61842606511",
+        "share_text": "Share this reel to my dm or comment DM to receive automatic links\u00e2\u009c\u00a8\n\n#trousers #pants #oldmoney #summer \n#summerwear #oldmoneyaesthetic \n#styling #trending #stayclassy #myntra\n#affordable #fashion",
+        "original_content_owner": "stayclassy_with_pravin"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "STAY CLASSY",
+      "timestamp_ms": 1727520912669,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "STAY CLASSY",
+      "timestamp_ms": 1727520911956,
+      "content": "You sent a private reply to a comment on your Instagram post.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "STAY CLASSY",
+  "is_still_participant": true,
+  "thread_path": "inbox/stayclassy_17972226416785945",
+  "magic_words": [
+    
+  ]
+}

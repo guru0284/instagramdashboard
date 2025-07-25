@@ -1,0 +1,56 @@
+{
+  "account_history_account_privacy_history": [
+    {
+      "title": "Switched to Public",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Time": {
+          "href": "",
+          "value": "",
+          "timestamp": 1707364919
+        }
+      }
+    },
+    {
+      "title": "Switched to Private",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Time": {
+          "href": "",
+          "value": "",
+          "timestamp": 1701933663
+        }
+      }
+    },
+    {
+      "title": "Switched to Public",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Time": {
+          "href": "",
+          "value": "",
+          "timestamp": 1701933623
+        }
+      }
+    },
+    {
+      "title": "Switched to Private",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Time": {
+          "href": "",
+          "value": "",
+          "timestamp": 1672389722
+        }
+      }
+    }
+  ]
+}

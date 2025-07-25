@@ -1,0 +1,32 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Locations of interest",
+      "vec": [
+        {
+          "value": "Pondicherry, Puducherry"
+        },
+        {
+          "value": "Chennai, Tamil Nadu"
+        },
+        {
+          "value": "Vellore, Tamil Nadu"
+        },
+        {
+          "value": "Puducherry"
+        },
+        {
+          "value": "Tamil Nadu"
+        }
+      ]
+    },
+    {
+      "label": "Usage explanation",
+      "value": "Locations of interest are used to personalize your experience on Instagram and show you more relevant ads. Learn more about how Instagram uses location in Privacy Center."
+    }
+  ],
+  "fbid": "17841453578327190"
+}

@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Bilimbe"
+    },
+    {
+      "name": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bilimbe",
+      "timestamp_ms": 1696342799562,
+      "content": "Hello! Please contact us for more information about our Photobooth Products.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa",
+      "timestamp_ms": 1696342798910,
+      "content": "You opened this conversation through an ad. View ad(https://www.instagram.com/p/CxXVpDAAmNv/)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bilimbe",
+  "is_still_participant": true,
+  "thread_path": "inbox/bilimbe_17980835672584452",
+  "magic_words": [
+    
+  ]
+}

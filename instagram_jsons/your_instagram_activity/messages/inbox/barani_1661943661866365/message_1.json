@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Barani"
+    },
+    {
+      "name": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Barani",
+      "timestamp_ms": 1741856121831,
+      "content": "Hi da",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Barani",
+  "is_still_participant": true,
+  "thread_path": "inbox/barani_1661943661866365",
+  "magic_words": [
+    
+  ]
+}

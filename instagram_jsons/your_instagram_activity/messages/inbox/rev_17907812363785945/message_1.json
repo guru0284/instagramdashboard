@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "REV \u00f0\u009f\u00a5\u0082\u00e2\u009c\u00a8\u00ef\u00b8\u008f"
+    },
+    {
+      "name": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "REV \u00f0\u009f\u00a5\u0082\u00e2\u009c\u00a8\u00ef\u00b8\u008f",
+      "timestamp_ms": 1742387605922,
+      "content": "Mmmm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa",
+      "timestamp_ms": 1742386754545,
+      "content": "Terla Avan kitta kettu koo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa",
+      "timestamp_ms": 1742386746746,
+      "content": "Naa vikaaala visal tha vikaran 12.5 k sonna",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "REV \u00f0\u009f\u00a5\u0082\u00e2\u009c\u00a8\u00ef\u00b8\u008f",
+      "timestamp_ms": 1742381939197,
+      "content": "Evlo",
+      "share": {
+        "link": "https://instagram.com/stories/gx._.lee/3591608837293312461"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "REV \u00f0\u009f\u00a5\u0082\u00e2\u009c\u00a8\u00ef\u00b8\u008f",
+  "is_still_participant": true,
+  "thread_path": "inbox/rev_17907812363785945",
+  "magic_words": [
+    
+  ]
+}

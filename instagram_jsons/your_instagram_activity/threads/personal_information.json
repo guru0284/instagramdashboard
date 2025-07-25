@@ -1,0 +1,88 @@
+{
+  "text_post_app_text_post_app_profile": [
+    {
+      "title": "",
+      "media_map_data": {
+        "Profile Photo": {
+          "uri": "media/other/358263160_681075700526982_3967187397372267200_n_17962724105402197.jpg",
+          "creation_timestamp": 1688711928,
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            }
+          },
+          "title": "",
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "text_app_post": {
+            "reply_control": "everyone",
+            "geo_gated_country_list": ""
+          }
+        }
+      },
+      "string_map_data": {
+        "Email": {
+          "href": "",
+          "value": "",
+          "timestamp": 0
+        },
+        "Phone Number": {
+          "href": "",
+          "value": "",
+          "timestamp": 0
+        },
+        "Phone Confirmed": {
+          "href": "",
+          "value": "",
+          "timestamp": 0
+        },
+        "Phone Confirmation Method": {
+          "href": "",
+          "value": "",
+          "timestamp": 0
+        },
+        "Username": {
+          "href": "",
+          "value": "",
+          "timestamp": 0
+        },
+        "Name": {
+          "href": "",
+          "value": "",
+          "timestamp": 0
+        },
+        "Bio": {
+          "href": "",
+          "value": "AIM'22\nVITv'27\n\u00f0\u009f\u0093\u008dArani",
+          "timestamp": 0
+        },
+        "Birthday": {
+          "href": "",
+          "value": "",
+          "timestamp": 0
+        },
+        "Private Account": {
+          "href": "",
+          "value": "True",
+          "timestamp": 0
+        },
+        "Onboarding Time": {
+          "href": "",
+          "value": "",
+          "timestamp": 1688711910
+        },
+        "Is Eligible for Profile Activation Badge": {
+          "href": "",
+          "value": "False",
+          "timestamp": 0
+        },
+        "Profile Shows Activation Badge": {
+          "href": "",
+          "value": "False",
+          "timestamp": 0
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "timestamp": 1751719075,
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Survey responses",
+      "vec": [
+        {
+          "dict": [
+            {
+              "label": "Question",
+              "value": ""
+            },
+            {
+              "label": "Response",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Question",
+              "value": "How much do you like or dislike this ad?"
+            },
+            {
+              "label": "Response",
+              "value": ""
+            }
+          ]
+        }
+      ],
+      "description": "Your survey questions and responses"
+    },
+    {
+      "label": "Survey start time",
+      "timestamp_value": 0,
+      "description": "The time when you first started this survey"
+    },
+    {
+      "label": "Last update time",
+      "timestamp_value": 0,
+      "description": "The last time you updated this survey"
+    },
+    {
+      "label": "Survey completion time",
+      "timestamp_value": 0,
+      "description": "The time you completed the entire survey"
+    },
+    {
+      "label": "Update time",
+      "timestamp_value": 1751719075
+    }
+  ],
+  "fbid": "617816760823057"
+}

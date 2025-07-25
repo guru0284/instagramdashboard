@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "kamssssss._"
+    },
+    {
+      "name": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa",
+      "timestamp_ms": 1745430621110,
+      "share": {
+        "link": "https://instagram.com/stories/gx._.lee/3617256616954940111"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "kamssssss._",
+      "timestamp_ms": 1745430161990,
+      "share": {
+        "link": "https://instagram.com/stories/kamssssss._/3617234245498086729"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa",
+      "timestamp_ms": 1745429528231,
+      "content": "Macha tag panraa",
+      "share": {
+        "link": "https://instagram.com/stories/kamssssss._/3617234245498086729"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "kamssssss._",
+  "is_still_participant": true,
+  "thread_path": "inbox/kamssssss__17998177388785945",
+  "magic_words": [
+    
+  ]
+}

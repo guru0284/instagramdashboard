@@ -1,0 +1,73 @@
+{
+  "participants": [
+    {
+      "name": "j a i . . . . ."
+    },
+    {
+      "name": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "j a i . . . . .",
+      "timestamp_ms": 1687061984282,
+      "content": "Thank you machan \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "j a i . . . . .",
+      "timestamp_ms": 1687061304776,
+      "content": "j a shared a story.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa",
+      "timestamp_ms": 1687054011395,
+      "content": "You shared a story.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "j a i . . . . .",
+      "timestamp_ms": 1676991774859,
+      "content": "j a sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "j a i . . . . .",
+      "timestamp_ms": 1676990236865,
+      "content": "j a sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa",
+      "timestamp_ms": 1676779961755,
+      "content": "You shared a story.",
+      "share": {
+        "link": "https://instagram.com/stories/gx._.lee/3041077501553846322"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "j a i . . . . .",
+      "timestamp_ms": 1676779731877,
+      "content": "Tag Pannu da",
+      "share": {
+        "link": "https://instagram.com/stories/gx._.lee/3041077501553846322"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "j a i . . . . .",
+  "is_still_participant": true,
+  "thread_path": "inbox/jai_17954643479453824",
+  "magic_words": [
+    
+  ]
+}

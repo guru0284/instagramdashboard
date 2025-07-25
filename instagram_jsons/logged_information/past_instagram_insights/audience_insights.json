@@ -1,0 +1,112 @@
+{
+  "organic_insights_audience": [
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Date Range": {
+          "href": "",
+          "value": "Apr 16 - Jul 14",
+          "timestamp": 0
+        },
+        "Followers": {
+          "href": "",
+          "value": "412",
+          "timestamp": 0
+        },
+        "Followers Delta": {
+          "href": "",
+          "value": "+2.4% vs Jan 16 - Apr 15",
+          "timestamp": 0
+        },
+        "Follows": {
+          "href": "",
+          "value": "60",
+          "timestamp": 0
+        },
+        "Unfollows": {
+          "href": "",
+          "value": "50",
+          "timestamp": 0
+        },
+        "Overall followers": {
+          "href": "",
+          "value": "10",
+          "timestamp": 0
+        },
+        "Follower Percentage by City": {
+          "href": "",
+          "value": "Chennai: 22.3%, Vellore: 22.1%, Gudiyattam: 6.5%, Bangalore: 4.8%, Arani: 4.8%",
+          "timestamp": 0
+        },
+        "Follower Percentage by Country": {
+          "href": "",
+          "value": "India: 99%, Australia: 0.2%, Kuwait: 0.2%, United States: 0.2%, Antigua: 0.2%",
+          "timestamp": 0
+        },
+        "Follower Percentage by Age for All Genders": {
+          "href": "",
+          "value": "13-17: 0.7%, 18-24: 85.8%, 25-34: 9%, 35-44: 2.1%, 45-54: 2.1%, 55-64: 0%, 65+: 0%",
+          "timestamp": 0
+        },
+        "Follower Percentage by Age for Men": {
+          "href": "",
+          "value": "13-17: 0.3%, 18-24: 87%, 25-34: 8.4%, 35-44: 2.2%, 45-54: 1.9%, 55-64: 0%, 65+: 0%",
+          "timestamp": 0
+        },
+        "Follower Percentage by Age for Women": {
+          "href": "",
+          "value": "13-17: 0%, 18-24: 84%, 25-34: 8%, 35-44: 4%, 45-54: 4%, 55-64: 0%, 65+: 0%",
+          "timestamp": 0
+        },
+        "Total Follower Percentage for Men": {
+          "href": "",
+          "value": "92.4%",
+          "timestamp": 0
+        },
+        "Total Follower Percentage for Women": {
+          "href": "",
+          "value": "7.5%",
+          "timestamp": 0
+        },
+        "Monday Follower Activity": {
+          "href": "",
+          "value": "365",
+          "timestamp": 0
+        },
+        "Tuesday Follower Activity": {
+          "href": "",
+          "value": "362",
+          "timestamp": 0
+        },
+        "Wednesday Follower Activity": {
+          "href": "",
+          "value": "361",
+          "timestamp": 0
+        },
+        "Thursday Follower Activity": {
+          "href": "",
+          "value": "363",
+          "timestamp": 0
+        },
+        "Friday Follower Activity": {
+          "href": "",
+          "value": "363",
+          "timestamp": 0
+        },
+        "Saturday Follower Activity": {
+          "href": "",
+          "value": "360",
+          "timestamp": 0
+        },
+        "Sunday Follower Activity": {
+          "href": "",
+          "value": "361",
+          "timestamp": 0
+        }
+      }
+    }
+  ]
+}

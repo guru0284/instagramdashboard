@@ -1,0 +1,42 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Removed categories",
+      "vec": [
+        
+      ]
+    },
+    {
+      "dict": [
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Instagram post: TROLL ATROCITY - 3it\n\nDedicated..."
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1733207712
+            }
+          ],
+          "title": ""
+        }
+      ],
+      "title": "Hidden ads"
+    },
+    {
+      "dict": [
+        
+      ],
+      "title": "Hidden advertisers"
+    }
+  ],
+  "fbid": "17844243602785945"
+}

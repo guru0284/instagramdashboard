@@ -1,0 +1,23 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Autofill type"
+    },
+    {
+      "label": "Opt-in status of autofill",
+      "value": "False"
+    },
+    {
+      "label": "Expiry time of the autofill",
+      "timestamp_value": 0
+    },
+    {
+      "label": "Name",
+      "value": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa"
+    }
+  ],
+  "fbid": "17845997741785945"
+}

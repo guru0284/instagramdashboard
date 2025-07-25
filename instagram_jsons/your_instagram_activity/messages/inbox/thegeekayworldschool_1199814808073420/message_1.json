@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "The Geekay World School"
+    },
+    {
+      "name": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Geekay World School",
+      "timestamp_ms": 1698318908343,
+      "content": "Hi \u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa\u00e2\u009d\u0094! Please let us know how we can help you.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0099\u0082\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00aa",
+      "timestamp_ms": 1698318907639,
+      "content": "You opened this conversation through an ad. View ad(https://www.instagram.com/p/CyVvjZBNPLF/)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "The Geekay World School",
+  "is_still_participant": true,
+  "thread_path": "inbox/thegeekayworldschool_1199814808073420",
+  "magic_words": [
+    
+  ]
+}
